@@ -53,3 +53,10 @@ Hai trovato un errore? Vuoi suggerire una modifica?
 
 Traduzione amatoriale personale
 Per domande o supporto, scrivi un commento nella sezione Issues del repository.
+
+## ☕ Supporta il progetto
+
+Se ti piace questo progetto, puoi offrirmi un caffè:
+
+[![Buy Me a Coffee](https://buymeacoffee.com/lele344)
+

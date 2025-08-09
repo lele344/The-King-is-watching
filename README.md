@@ -4,6 +4,15 @@ Questo progetto fornisce una **traduzione completa in italiano** del gioco *The 
 
 ---
 
+
+## ☕ Supporta il progetto
+
+Se ti piace questo progetto, puoi offrirmi un caffè:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge)](https://www.buymeacoffee.com/lele344)
+
+---
+
 ## 📥 Come installare la traduzione
 
 ### 1. Trova la cartella del gioco su Steam
@@ -54,9 +63,4 @@ Hai trovato un errore? Vuoi suggerire una modifica?
 Traduzione amatoriale personale
 Per domande o supporto, scrivi un commento nella sezione Issues del repository.
 
-## ☕ Supporta il progetto
-
-Se ti piace questo progetto, puoi offrirmi un caffè:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=for-the-badge)](https://www.buymeacoffee.com/lele344)
 
